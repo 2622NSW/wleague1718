@@ -1,2 +1,4 @@
-# wleague1718
-Data from the WLEague season (%7 games) Australia.
+# WLeague1718
+Data from the WLeague season (57 games) Australia.
+
+Goal scoring patterns and game outcomes
